@@ -1,0 +1,20 @@
+[
+    {
+        "name": "BMW",
+        "type": "CAR",
+        "price": "2000",
+        "image": "https:\/\/as2.ftcdn.net\/v2\/jpg\/04\/27\/17\/27\/1000_F_427172792_AZQRCpUoqmk80A7a9MIlQbiPyf2Mweww.jpg"
+    },
+    {
+        "name": "PRADO",
+        "type": "JEEP",
+        "price": "3800",
+        "image": "https:\/\/as2.ftcdn.net\/v2\/jpg\/04\/85\/81\/65\/1000_F_485816563_UUE8hdSnqzZPldETurk3NZJb74gCBbhi.jpg"
+    },
+    {
+        "name": "LAMBORGINI",
+        "type": "CAR",
+        "price": "4000",
+        "image": "https:\/\/as2.ftcdn.net\/v2\/jpg\/03\/75\/42\/33\/1000_F_375423312_VcfklfhcmkVOj8cvJtorP5kQmpYaNndj.jpg"
+    }
+]
